@@ -47,6 +47,3 @@
 <!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ❤️**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemreaytacc&show_icons=true&bg_color=00000000)
-
